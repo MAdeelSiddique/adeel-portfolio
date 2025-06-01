@@ -887,7 +887,7 @@ a:focus {
     display: flex;
     align-items: center;
     background: #ffffff;
-    box-shadow: 0 0 15px rgba(0, 0, 0, .12);
+    box-shadow: 0 0 15px rgb(0 0 0 / 53%);
 }
 
 .portfolio .portfolio-text h3 {
